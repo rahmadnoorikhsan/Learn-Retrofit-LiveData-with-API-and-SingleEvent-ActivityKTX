@@ -1,4 +1,4 @@
-# Learn-Networking-with-Retrofit
+# Learn Networking with Retrofit
 
 - Create a new project.
 - Set the view in the XML layout file.
