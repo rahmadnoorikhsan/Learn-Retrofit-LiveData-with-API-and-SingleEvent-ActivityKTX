@@ -25,3 +25,9 @@
 - Run the application.
 - Wrap the data that you want to use as a single event.
 - Run the application Live Data with Single Event.
+
+# Learn Activity KTX
+- Passing LiveData with SingleEvent.
+- Added the library to the project.
+- Changed the ViewModel initialization in the Activity class using Android KTX.
+- Running the application again.
