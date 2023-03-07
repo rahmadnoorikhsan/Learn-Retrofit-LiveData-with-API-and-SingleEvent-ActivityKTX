@@ -7,8 +7,8 @@
 - Create ApiService and ApiConfig classes to manage the Retrofit configuration.
 - Implement Retrofit into the Activity.
 - Run the application.
-=======
-#Learn Live Data with API
+
+# Learn Live Data with API
 
 - Contiuing the Networking with Retrofit
 - Added a ViewModel class to hold temporary logic and data.
@@ -16,7 +16,7 @@
 - Moved the postReview and findRestaurant functions from MainActivity to ViewModel.
 - Implement the ViewModel into the Activity.
 - Run the application Live Data with API.
-=======
+
 # Learn Live Data with Single Event
 
 - Continuing the LiveData with the API.
