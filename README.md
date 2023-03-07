@@ -12,3 +12,9 @@
 - Moved the postReview and findRestaurant functions from MainActivity to ViewModel.
 - Implement the ViewModel into the Activity.
 - Run the application.
+- Continuing the LiveData exercise with the API.
+- Add a new variable to hold information in the ViewModel class.
+- Observe the change in the variable in the Activity class.
+- Run the application.
+- Wrap the data that you want to use as a single event.
+- Run the application again.
